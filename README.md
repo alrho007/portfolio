@@ -1,6 +1,6 @@
 # Ridwan Husain's Portfolio
 
-# [Movie Recommendation System](https://github.com/husainridwan/movie-recommender-system)
+# [Movie Recommendation System](https://github.com/husainridwan/movie-recommendation-system)
 
 
 ## Objectives:
