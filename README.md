@@ -1,4 +1,4 @@
-[Ridwan Husain's Portfolio](https://github.com/husainridwan/portfolio)
+# Ridwan Husain's Portfolio
 
 [Movie Recommendation System](https://github.com/husainridwan/movie-recommendation-system)
 
