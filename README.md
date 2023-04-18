@@ -10,7 +10,10 @@ Content-based methods are based on the similarity of movie attributes. Using thi
 
 # [EPL-Exploratory-Analysis](https://github.com/husainridwan/EPL-Exploratory-Analysis)
 
-### Introduction
+### Objectives:
+Analyze English Premier League players based on their performances in each position.
+
+### Description
 This project describes the performance of active English Premier League players until the end of the 2019/2020 football season.
 The dataset was extracted from www.fbref.com and www.premierleague.com to used to confirm the veracity of the statistics.
 The data was then imported into Microsoft Excel and SQL for data wrangling(correcting inconsistent data types, filling missing values etc) and the refined
