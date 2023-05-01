@@ -31,4 +31,4 @@ Customer Account information & Services.
 It was observed that majority of the customers at risk of not using the services again used Electronic check as payment menthod and about 90% of them subscribed to 
 monthly plans. Customers with partners generally spent over $1200 more than those without partners monthly on Paperless billing.
 A third of the customers that have partners that are at risk of churn use more of the streaming services and pay more in charges compared to others. You can interact with the dashboard here: 
-https://app.powerbi.com/view?r=eyJrIjoiMDMxZDVlMjYtZTE2Yy00ZWYzLWE4OWItOGFiMTkwZWQ0NmEzIiwidCI6ImFjYjY3YTYyLTRiOWQtNDhjZS04MmM0LTYyYjlmMjE2YjM5NyJ9
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDMxZDVlMjYtZTE2Yy00ZWYzLWE4OWItOGFiMTkwZWQ0NmEzIiwidCI6ImFjYjY3YTYyLTRiOWQtNDhjZS04MmM0LTYyYjlmMjE2YjM5NyJ9)
